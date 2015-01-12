@@ -1,0 +1,26 @@
+
+Characters.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkRight_MouthOpen_Red1
+  rotate: false
+  xy: 1, 335
+  size: 120, 165
+  orig: 120, 165
+  offset: 0, 0
+  index: -1
+WalkRight_MouthOpen_Red2
+  rotate: false
+  xy: 1, 168
+  size: 120, 165
+  orig: 120, 165
+  offset: 0, 0
+  index: -1
+WalkRight_MouthOpen_Red3
+  rotate: false
+  xy: 1, 1
+  size: 120, 165
+  orig: 120, 165
+  offset: 0, 0
+  index: -1
